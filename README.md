@@ -1,6 +1,4 @@
-# Income-Streamlit
-
-## Streamlit project
+# Streamlit project
 
 
 
